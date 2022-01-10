@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/image/bin-thi-u-RjZQ3M3bGxQ-unsplash.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.content {
+    margin: auto;
+    margin-top: 200px;
+    text-align: center;
+}
+#welcome {
+    font-family: 'Inter', sans-serif;
+    font-family: 'The Nautigal', cursive;
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+    color: #fff;
+}
+#message {
+    text-align: center;
+    color: #fff;
+}
+.btn {
+    border: none;
+    outline: none;
+}
